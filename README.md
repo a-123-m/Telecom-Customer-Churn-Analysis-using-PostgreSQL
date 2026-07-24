@@ -1,5 +1,5 @@
 # 📊Telecom-Customer-Churn-Analysis-using-PostgreSQL
-This project focuses on analyzing telecom customer data to understand customer churn and identify the key factors influencing customer retention and business performance.
+This SQL project focuses on analyzing telecom customer data to understand customer churn and identify the key factors influencing customer retention and business performance.
 <p align="center">
 <img width="1000" height="469" alt="image" src="https://github.com/user-attachments/assets/809fc743-380c-461a-896d-e1fddfbcc55e" />
 </p>
